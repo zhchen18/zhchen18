@@ -12,7 +12,7 @@ https://github.com/NLPWM-WHU/RACL
 * Zhuang Chen, Tieyun Qian: Enhancing Aspect Term Extraction with Soft Prototypes. EMNLP 2020. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 https://github.com/NLPWM-WHU/SoftProto
 
-* Zhuang Chen, Tieyun Qian: Transfer Capsule Network for Aspect Level Sentiment Classification. ACL 2019.
+* Zhuang Chen, Tieyun Qian: Transfer Capsule Network for Aspect Level Sentiment Classification. ACL 2019.&emsp;&emsp;&emsp;&emsp;
 https://github.com/NLPWM-WHU/TransCap
 
 

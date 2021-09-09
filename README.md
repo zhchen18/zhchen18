@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I will update my profile at https://zhchen18.github.io/.
+I have updated my profile at https://zhchen18.github.io/!
+
 
 ### First-Author Paper List:
 * Zhuang Chen, Tieyun Qian: Bridge-Based Active Domain Adaptation for Aspect Term Extraction. ACL/IJCNLP 2021. 

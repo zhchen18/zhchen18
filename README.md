@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have updated my profile at https://zhchen18.github.io/!
+I have updated my profile at https://zhuangchen.tech !
 
 
 ### First-Author Paper List:
